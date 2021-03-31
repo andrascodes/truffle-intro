@@ -5,6 +5,10 @@
   "repository": "git@github.com:andrewszucs/truffle-intro.git",
   "author": "Andras Szucs <andrew0szucs@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "compile": "./node_modules/.bin/truffle compile",
+    "truffle": "./node_modules/.bin/truffle"
+  },
   "dependencies": {
     "truffle": "^5.2.6"
   }
