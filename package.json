@@ -1,0 +1,11 @@
+{
+  "name": "truffle-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewszucs/truffle-intro.git",
+  "author": "Andras Szucs <andrew0szucs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.2.6"
+  }
+}
