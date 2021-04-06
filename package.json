@@ -7,9 +7,10 @@
   "license": "MIT",
   "scripts": {
     "compile": "./node_modules/.bin/truffle compile",
-    "truffle": "./node_modules/.bin/truffle"
+    "develop": "./node_modules/.bin/truffle develop"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
     "truffle": "^5.2.6"
   }
 }
